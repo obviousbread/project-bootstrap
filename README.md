@@ -1,5 +1,7 @@
 # AGENTS-dot-md
 
+![AGENTS.md — drop-in operating instructions for coding agents](assets/feature.webp)
+
 A drop-in [`AGENTS.md`](AGENTS.md) — operating instructions for coding agents.
 
 ## How to use
